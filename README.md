@@ -1,7 +1,7 @@
 # Software-Verification-and-Testing
 
 Software Verification, Validation, and Testing (CSE 565)
-This repository contains projects demonstrating a wide range of software testing techniques and tools, completed as part of the Software Verification, Validation, and Testing course at ASU. These projects emphasize the practical application of testing methodologies to ensure software quality and reliability. Key projects include:
+This repository contains projects demonstrating a wide range of software testing techniques and tools. These projects emphasize the practical application of testing methodologies to ensure software quality and reliability. Key projects include:
 
 1. Unit Testing with Heapsort: Designed and implemented the Heapsort algorithm in Python, validating its correctness using the unittest framework with extensive test coverage, including generative AI for test case creation.
 
